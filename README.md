@@ -9,7 +9,7 @@ If an idea sounds fun, I’ll probably try to build it.
 - Build projects for learning and fun
 - Experiment with new tools and ideas
 - Share code publicly on GitHub
-
+ 
 🧠Backend:
 Node.js
 Express.js
