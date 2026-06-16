@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Modern+Web+Applications;AI+Powered+Product+Engineering;Open+Source+Contributor;Always+Learning+Always+Shipping" />
 
 <p>
+<img src="https://img.shields.io/badge/Vibe%20Coding-Active-A855F7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Software%20Engineering-Focused-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-A855F7?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -99,7 +100,7 @@ My interests include:
 
 # AI / ML Expertise
 
-| Domain                        | Proficiency  | Details                                           |
+| Domain                         | Proficiency  | Details                                           |
 | ----------------------------- | ------------ | ------------------------------------------------- |
 | AI Product Integration        | Advanced     | Integrating AI workflows into modern applications |
 | Prompt Engineering            | Advanced     | Designing structured prompts for LLM systems      |
@@ -314,16 +315,6 @@ Working as the primary web developer responsible for designing, developing, and 
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=imjustneko&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
@@ -368,34 +359,3 @@ Open_To:
   - Startup Collaboration
   - Open Source Contributions
   - AI Projects
-```
-
----
-
-# Connec
-
-<div align="center">
-
-<a href="mailto:goodmorningamv@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/neko-shd-a740aa416/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/imjustneko">
-<img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-*"Engineering is not just writing code — it's building systems that create value."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
