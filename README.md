@@ -372,7 +372,7 @@ Open_To:
 
 ---
 
-# Connect
+# Connec
 
 <div align="center">
 
