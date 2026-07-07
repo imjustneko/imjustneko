@@ -1,321 +1,326 @@
-# <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=NekoShd&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlign=50&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=NekoShd&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Product%20Builder&descAlign=50&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Modern+Web+Applications;AI+Powered+Product+Engineering;Open+Source+Contributor;Always+Learning+Always+Shipping" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Creating+AI-Powered+Products;Full+Stack+Developer+from+Mongolia;Always+Learning+Always+Building"/>
 
-<p>
-<img src="https://img.shields.io/badge/Vibe%20Coding-Active-A855F7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-Focused-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-A855F7?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Mongolia-Ulaanbaatar-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</p>
-
-<p>
-<a href="https://www.linkedin.com/in/neko-shd-a740aa416/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:goodmorningamv@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br>
 
 <a href="https://github.com/imjustneko">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/imjustneko?style=for-the-badge&logo=github&color=7C3AED"/>
 </a>
-</p>
 
-<p>
 <img src="https://komarev.com/ghpvc/?username=imjustneko&style=for-the-badge&color=7C3AED"/>
-<img src="https://img.shields.io/github/followers/imjustneko?style=for-the-badge&color=7C3AED"/>
+
 <img src="https://img.shields.io/github/stars/imjustneko?style=for-the-badge&color=A855F7"/>
-</p>
 
 </div>
 
 ---
 
-# About Me
+# 👋 Hello, I'm Neko
 
-I'm **NekoShd**, a Full Stack Developer focused on building scalable, modern, and user-centric applications.
+I'm a **Full Stack Developer** from **Mongolia 🇲🇳** passionate about creating modern web applications, automation tools, and AI-powered products.
 
-My engineering approach combines strong software development fundamentals with product thinking, allowing me to build solutions that are not only technically sound but also meaningful to end users.
+I enjoy turning ideas into production-ready software by combining thoughtful UI/UX, scalable backend architecture, and clean, maintainable code.
 
-I enjoy working across the full development lifecycle—from architecture and backend systems to frontend experiences and deployment pipelines.
-
-My interests include:
-
-* Full Stack Web Development
-* AI-Powered Applications
-* Product Engineering
-* Backend Architecture
-* Cloud Technologies
-* Automation & Developer Tooling
-* Open Source Collaboration
-
-### Open To
-
-* Full Stack Engineering Opportunities
-* Software Engineering Internships
-* Startup Collaboration
-* Open Source Contributions
-* AI/ML Projects
-* Remote Engineering Teams
-
-> **Note:** A significant portion of my work is maintained in private repositories and internal company projects, so the public repositories shown here represent only a subset of my development experience.
+Outside of public repositories, I also contribute to private business systems, internal tools, and automation projects that streamline real-world workflows.
 
 ---
 
-# Tech Stack
+## 🚀 What I'm Working On
 
-### Languages
+- 💻 Full Stack Web Applications
+- 🤖 AI-powered Products
+- ⚙️ Workflow Automation
+- 🌐 Internal Business Systems
+- ☁️ Cloud Deployments
+- 📦 Open Source Projects
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Backend Architecture
+- AI Engineering
+- Cloud Infrastructure
+- System Design
+- Scalable Application Design
+
+---
+
+## 🤝 Open To
+
+- Full Stack Developer Roles
+- Software Engineering Internships
+- Remote Opportunities
+- Startup Collaboration
+- Open Source Projects
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,bash" />
 </p>
 
-### Frontend
+## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap" />
 </p>
 
-### Backend & Databases
+## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Cloud, DevOps & Tooling
+## Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,nginx,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase" />
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,nginx,vercel" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# AI / ML Expertise
+# 📌 Highlights
 
-| Domain                         | Proficiency  | Details                                           |
-| ----------------------------- | ------------ | ------------------------------------------------- |
-| AI Product Integration        | Advanced     | Integrating AI workflows into modern applications |
-| Prompt Engineering            | Advanced     | Designing structured prompts for LLM systems      |
-| Automation                    | Advanced     | Workflow automation and productivity tooling      |
-| Machine Learning Fundamentals | Intermediate | Core ML concepts and implementation               |
-| AI APIs                       | Advanced     | OpenAI and modern AI service integrations         |
-| Intelligent Applications      | Advanced     | Building AI-assisted user experiences             |
+- 🚀 Building scalable web applications
+- 🤖 Integrating modern AI APIs into products
+- 🎨 Designing responsive and intuitive interfaces
+- ⚡ Developing automation tools for productivity
+- 📚 Constantly exploring new technologies
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
-<details>
-<summary><b>TaskProject</b></summary>
+> A selection of projects that showcase my experience in full-stack development, modern UI/UX, automation, and product-focused engineering.
 
-### Project Overview
+<details open>
+<summary><b>📋 TaskProject</b></summary>
 
-Modern task and productivity management platform focused on usability and scalability.
+### Overview
 
-| Category    | Details                                   |
-| ----------- | ----------------------------------------- |
-| Stack       | React, Node.js, Database Technologies     |
-| Scale       | Multi-user Architecture                   |
-| Performance | Optimized Frontend Workflows              |
-| Security    | Authentication & Access Control           |
-| Impact      | Productivity Enhancement                  |
-| Repository  | https://github.com/imjustneko/TaskProject |
+A modern productivity platform designed to help users organize tasks efficiently with a clean and responsive user experience.
 
-#### Engineering Highlights
+**Highlights**
 
-* Modern frontend architecture
-* Scalable backend structure
-* Clean component organization
-* Real-world application design
-* Continuous feature development
+- 📌 Responsive React interface
+- ⚡ Fast and scalable architecture
+- 🔐 Authentication & user management
+- 📊 Dashboard-based workflow
+- 🧩 Reusable component system
 
-</details>
+**Tech Stack**
 
-<details>
-<summary><b>TetrForMeowMeow</b></summary>
+`React` `Node.js` `Express` `SQL` `JavaScript`
 
-### Project Overview
+🔗 Repository
 
-Custom web application project focused on interactive user experiences and frontend engineering.
-
-| Category    | Details                                       |
-| ----------- | --------------------------------------------- |
-| Stack       | React, JavaScript, CSS                        |
-| Scale       | Consumer Facing Application                   |
-| Performance | Optimized UI Rendering                        |
-| Security    | Client Side Validation                        |
-| Impact      | User Engagement                               |
-| Repository  | https://github.com/imjustneko/tetrformeowmeow |
-
-#### Engineering Highlights
-
-* Interactive UI development
-* Responsive design implementation
-* Reusable component structure
-* Modern frontend practices
-
-</details>
-
-<details>
-<summary><b>HappyBirthday Site Idea</b></summary>
-
-### Project Overview
-
-Creative web experience designed to preserve memories through interactive content.
-
-| Category    | Details                                               |
-| ----------- | ----------------------------------------------------- |
-| Stack       | HTML, CSS, JavaScript                                 |
-| Scale       | Personalized Web Experience                           |
-| Performance | Lightweight Delivery                                  |
-| Security    | Static Hosting Security Model                         |
-| Impact      | User Experience Focused                               |
-| Repository  | https://github.com/imjustneko/HappyBirthday-site-idea |
-
-#### Engineering Highlights
-
-* Memory-focused user journey
-* Interactive design elements
-* Responsive layouts
-* Frontend storytelling approach
-
-</details>
-
-<details>
-<summary><b>Private Enterprise Projects</b></summary>
-
-### Confidential Development Work
-
-A substantial amount of my engineering work exists in private repositories and internal systems.
-
-| Category    | Details                   |
-| ----------- | ------------------------- |
-| Stack       | Full Stack Technologies   |
-| Scale       | Internal Business Systems |
-| Performance | Production Oriented       |
-| Security    | Enterprise Standards      |
-| Impact      | Operational Efficiency    |
-| Repository  | Private                   |
-
-#### Engineering Highlights
-
-* Internal tools
-* Business process automation
-* Web application development
-* System integrations
-* Production deployments
+https://github.com/imjustneko/TaskProject
 
 </details>
 
 ---
 
-# Experience
+<details>
+<summary><b>🎉 HappyBirthday Website</b></summary>
 
-## Full Stack Developer — Abico Foods
+### Overview
 
-**Date Range:** Present
+An interactive website created to preserve memories through animations, music, photos, and storytelling.
 
-Working as the primary web developer responsible for designing, developing, and maintaining software solutions that support business operations and digital initiatives.
+**Highlights**
 
-### Scope of Work
+- 💜 Animated user experience
+- 📷 Photo & memory gallery
+- ✨ Smooth transitions
+- 📱 Mobile responsive
+- 🎵 Interactive elements
 
-* Full stack application development
-* Frontend architecture and UI implementation
-* Backend service development
-* Database design and optimization
-* Deployment and infrastructure management
-* Internal software solutions
-* Business process automation
+**Tech Stack**
 
-### Skills
+`HTML` `CSS` `JavaScript`
 
-`JavaScript` `TypeScript` `React` `Node.js` `SQL` `Git` `Linux` `Web Development`
+🔗 Repository
+
+https://github.com/imjustneko/HappyBirthday-site-idea
+
+</details>
 
 ---
 
-# Achievements
+<details>
+<summary><b>🎮 TetrForMeowMeow</b></summary>
+
+### Overview
+
+A frontend-focused web application emphasizing user interaction, responsive layouts, and modern component design.
+
+**Highlights**
+
+- ⚡ Fast UI rendering
+- 🎨 Modern design
+- 📱 Responsive layout
+- ♻️ Reusable components
+
+**Tech Stack**
+
+`React` `JavaScript` `CSS`
+
+🔗 Repository
+
+https://github.com/imjustneko/tetrformeowmeow
+
+</details>
+
+---
+
+<details>
+<summary><b>🏢 Private Enterprise Projects</b></summary>
+
+Most of my professional work is developed within private repositories and internal company systems.
+
+Areas I've contributed to include:
+
+- Internal business platforms
+- Workflow automation
+- Inventory management
+- Administrative dashboards
+- Business process optimization
+- Deployment & maintenance
+- API integrations
+
+> Due to confidentiality agreements, the source code for these projects cannot be shared publicly.
+
+</details>
+
+---
+
+# 💼 Professional Experience
+
+## Full Stack Developer
+
+**Abico Foods**
+
+**2025 — Present**
+
+Responsible for designing, developing, deploying, and maintaining internal business applications that support day-to-day operations.
+
+### Responsibilities
+
+- Full Stack Web Development
+- Frontend Architecture
+- Backend API Development
+- Database Design
+- Authentication Systems
+- Internal Dashboard Development
+- Business Automation
+- Deployment & Server Maintenance
+
+### Technologies
+
+`JavaScript`
+`TypeScript`
+`React`
+`Node.js`
+`Express`
+`MySQL`
+`PostgreSQL`
+`Git`
+`Linux`
+`Docker`
+
+---
+
+# 🧠 Engineering Philosophy
+
+I enjoy building software that is not only functional but also maintainable, scalable, and pleasant to use.
+
+When developing a product, I focus on:
+
+- Clean Architecture
+- Reusable Components
+- Maintainable Code
+- Performance Optimization
+- Accessibility
+- Responsive Design
+- Security Best Practices
+- Great User Experience
+
+---
+
+# 📈 Current Focus
+
+```yaml
+Learning:
+  - Advanced Backend Development
+  - AI Engineering
+  - Cloud Infrastructure
+  - System Design
+
+Building:
+  - AI-powered Web Applications
+  - Internal Business Systems
+  - Automation Tools
+
+Exploring:
+  - LLM Integrations
+  - Scalable APIs
+  - Developer Productivity
+
+Goals:
+  - Contribute more to Open Source
+  - Build impactful SaaS products
+  - Continue improving engineering skills
+```
+
+---
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-| Recognition               | Details                                       |
-| ------------------------- | --------------------------------------------- |
-| Full Stack Development    | Building complete end-to-end applications     |
-| Open Source Contributions | Public repositories and community development |
-| Product Engineering       | User-focused software design approach         |
-| AI Integration            | Practical AI-powered application development  |
-| Continuous Learning       | Consistent technology exploration             |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imjustneko&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=imjustneko&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjustneko&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 ---
 
-# Certifications
-
-## AWS
-
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Technology-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Continuous%20Learning-7C3AED?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Skills%20Assessment-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# GitHub Analytics
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imjustneko&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imjustneko&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjustneko&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=imjustneko&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
 ---
 
-# Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -325,7 +330,7 @@ Working as the primary web developer responsible for designing, developing, and 
 
 ---
 
-# Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -335,27 +340,171 @@ Working as the primary web developer responsible for designing, developing, and 
 
 ---
 
-# Current Focus
+# 📊 Development Summary
+
+<div align="center">
+
+| Statistics | Status |
+|------------|--------|
+| 💻 Public Projects | Continuously Growing |
+| 🚀 Full Stack Development | Active |
+| 🤖 AI Integration | Active |
+| 🌱 Learning | Every Day |
+| 🔥 Open Source | Ongoing |
+| 📦 Private Projects | Available |
+
+</div>
+
+---
+
+# ⚡ Engineering Interests
+
+<div align="center">
+
+| Backend | Frontend | AI | DevOps |
+|---------|----------|----|---------|
+| REST APIs | React | LLM Integration | Docker |
+| Authentication | Next.js | Prompt Engineering | Linux |
+| Databases | Tailwind CSS | AI Automation | Nginx |
+| System Design | Responsive UI | AI APIs | CI/CD |
+
+</div>
+
+---
+
+# 📅 2026 Goals
+
+```text
+🎯 Build more production-ready SaaS applications
+
+🤖 Create practical AI-powered products
+
+🌍 Contribute more to Open Source
+
+📚 Master System Design & Cloud Architecture
+
+⚡ Continue improving every day
+```
+
+---
+
+# 💡 Fun Facts
 
 ```yaml
-Learning:
-  - Advanced Backend Architecture
-  - AI Engineering
-  - Cloud Infrastructure
-  - System Design
+Coffee:
+  ☕ Sometimes
 
-Building:
-  - Full Stack Applications
-  - Internal Business Tools
-  - AI Powered Products
+Favorite Editor:
+  VS Code
 
-Exploring:
-  - Machine Learning
-  - Automation Systems
-  - Scalable Infrastructure
+Operating System:
+  Ubuntu Linux
 
-Open_To:
-  - Engineering Opportunities
-  - Startup Collaboration
-  - Open Source Contributions
-  - AI Projects
+Favorite Language:
+  TypeScript
+
+Favorite Framework:
+  React
+
+Current Obsession:
+  AI Engineering
+
+Always Exploring:
+  New Technologies
+
+Life Motto:
+  Keep Learning. Keep Building.
+```
+
+---
+
+---
+
+# 🎓 Certifications & Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-Database%20Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco-Networking%20Learning-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Continuous-Learning-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white"/>
+
+</div>
+
+---
+
+# 🌐 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksForGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Skills-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/imjustneko">
+<img src="https://img.shields.io/badge/GitHub-imjustneko-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/neko-shd-a740aa416/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:goodmorningamv@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Developer Quote
+
+<div align="center">
+
+> "Great software is built by combining creativity, engineering, and continuous improvement."
+
+</div>
+
+---
+
+# 🧩 Beyond Code
+
+```yaml
+Interests:
+  - Building digital products
+  - Exploring AI technologies
+  - Creating meaningful user experiences
+  - Learning new engineering concepts
+
+Outside Development:
+  - Design
+  - Technology
+  - Creative projects
+  - Problem solving
+
+Mindset:
+  - Learn
+  - Build
+  - Improve
+  - Repeat
+
+
