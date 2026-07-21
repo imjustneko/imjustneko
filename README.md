@@ -330,6 +330,23 @@ Goals:
 
 ---
 
+# ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+# 📊 Full Metrics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/imjustneko/imjustneko/main/metrics.svg" alt="Metrics"/>
+
+</div>
+
+---
+
 # 📊 Development Summary
 
 <div align="center">
