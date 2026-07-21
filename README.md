@@ -310,16 +310,6 @@ Goals:
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=imjustneko&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
